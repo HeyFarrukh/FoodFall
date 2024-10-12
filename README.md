@@ -1,8 +1,10 @@
 # FoodFall
 
-**Foodfall** is an engaging food picker game that offers a unique twist. Choose items from the shop to gain competitive advantages while navigating three difficulty levels: Easy, Medium, and Hard! 
+**Foodfall** is an engaging food picker game that offers a unique twist. Choose items from the shop to gain competitive advantages while navigating three difficulty levels: Easy, Medium, and Hard!
 
 **Pro tip:** prioritize eating healthy food!
+
+[Play FoodFall Now!](https://foodfall.farrukh.dev)
 
 ![FoodFall Game Cover](https://farrukh-dev-foodfall.web.app/GameCover/SocialCover-Foodfall-min.png)
 
